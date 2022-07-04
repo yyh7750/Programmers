@@ -1,7 +1,7 @@
 package 로또의_최고순위와_최저순위;
 
 import java.util.Arrays;
-
+ 
 public class Main {
 
 	public static void main(String[] args) {
